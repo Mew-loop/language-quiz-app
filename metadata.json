@@ -1,0 +1,6 @@
+{
+  "name": "LangQuiz Pro - Telegram Bot Mini App",
+  "description": "Cyberpunk-inspired Telegram Bot Mini App with interactive inline keyboards, dynamic quiz modes, rich stats visualization, daily quests, and level roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
